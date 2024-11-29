@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Services from './components/services'
+import Services from './components/Services'
 import Work from './components/Work'
 import ExperianceEducation from './components/ExperianceEducation'
 import Skills from './components/Skills'

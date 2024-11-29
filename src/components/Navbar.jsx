@@ -51,7 +51,7 @@ const Navbar = () => {
         >
           <ul onClick={() => setMenuOpen(false)} className="flex flex-col items-center text-center gap-8 lg:flex-row lg:gap-5">
             <li>
-              <a href="#quality_service" className="nav-link"
+              <a href="#quality_services" className="nav-link"
               >
                 Services
               </a>

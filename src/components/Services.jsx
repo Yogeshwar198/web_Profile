@@ -2,7 +2,7 @@ import React from 'react'
 
 const Services = () => {
     return (
-        <section id='quality_service' className='bg-sectionColor dark:bg-darkSectionColor'>
+        <section id='quality_services' className='bg-sectionColor dark:bg-darkSectionColor'>
             <div className='container'>
                 <div className='service_top flex flex-col items-center gap-5 text-center'>
                     <h2 className='subtitle'>My Quality Services</h2>

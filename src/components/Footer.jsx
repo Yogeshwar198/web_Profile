@@ -12,7 +12,7 @@ const Footer = () => {
                 <div>
                     <ul className='flex flex-wrap justify-center items-center space-x-3 '>
                         <li>
-                            <a href="#quality_service" className="nav-link"
+                            <a href="#quality_services" className="nav-link"
                             >
                                 Services
                             </a>
