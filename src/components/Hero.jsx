@@ -1,6 +1,6 @@
 import React from 'react'
 import person from '../assets/person.jpg'
-import resume from '../assets/resume.pdf'
+import resume from '../assets/Resume.pdf'
 
 const Hero = () => {
     return (
