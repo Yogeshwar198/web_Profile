@@ -1,5 +1,5 @@
 import React from 'react'
-import person from '../assets/person.jpg'
+import person from '../assets/person.png'
 import resume from '../assets/Resume.pdf'
 
 const Hero = () => {
@@ -11,10 +11,10 @@ const Hero = () => {
 
                 <div className='container'>
                     <div className='hidden md:block absolute top-0 left-[30%] lg:left-[35%] animation-scaleAnimation'>
-                        <p className='font-Londrina text[400px] lg:text-[450px]
+                        <p className='font-Londrina text-[400px] lg:text-[450px]
                          text-primaryColorLight uppercase -z-10 opacity-5'>hi</p>
-
                     </div>
+
                     {/* hero content  */}
                     <div className='hero__content flex items-center gap-5'>
                         <div className='space-y-2 md:w-1/2'>
@@ -73,7 +73,7 @@ const Hero = () => {
                             ></div>
 
                             <img src={person} alt="person"
-                                className='my-10 md:w-full lg:max-w-[80%] duration-300 origin-center rotate-[4.5deg] border-2
+                                className='my-10 md:w-full bg-primaryColor lg:max-w-[80%] duration-300 origin-center rotate-[4.5deg] border-2
                                 border-primaryColor rounded-[38px] hover:rotate-0 hover:border-primaryColorLight'
                             />
                         </div>
